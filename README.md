@@ -4,4 +4,5 @@
 
 A full breakdown of the hardware and system configuration of my homelab.
 
-<p align="center"><img alt="First home lab configuration." src="/assets/images/Rack_v1.0.jpeg" height="auto" width="600></p>
+<p align="center"><img alt="First Home Lab Configuration" src="/assets/images/Rack_v1.0.jpeg" height="auto" width="600"></p>
+
